@@ -1,5 +1,5 @@
 {
-    "name": "buildsecurity/symfony-opa",
+    "name": "buildsecurity/symfony-opa-form",
     "description": "Symfony middleware that adds Open Policy Agent authorization to incoming requests.",
     "type": "symfony-bundle",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "Yash Tewari",
             "email": "yash@build.securty"
+        },
+        {
+            "name": "Ante Crnogorac",
+            "email": "ante.crnogorac@gmail.com"
         }
     ],
     "require": {
